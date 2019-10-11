@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	background: #000;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+
+div{
+	width: 70%;
+	margin: 0 auto;
+}
+h1{
+	font-size: 35px;
+	color: #A1E7DC;
+	font-family: 'Montserrat', sans-serif;
+}
+p{
+	font-weight: bold;
+	width: 80%;
+	letter-spacing: 0.5px;
+    line-height: 26px;
+    color: #73C2B6;
+}
+img{
+	width: 75%;
+	margin-bottom: 30px;
+}
+a{
+	font-size: 20px;
+	display: block;
+	font-family: 'Montserrat';
+	margin: 80px 0px 20px 0px;
+	color:#4E9CEB;
+}
+a:hover{
+	color: #DD45C6;
+}
